@@ -193,6 +193,3 @@ The lab follows a structured troubleshooting workflow:
 - Root-cause identification
 - Technical documentation
 
-## 12. Project Status
-
-The network topology and OSPF link-failure recovery scenario have been completed and validated.
